@@ -1,0 +1,72 @@
+.navbar-brand{
+    margin-left: 2%;
+}
+.fa-brands{
+    color: white;
+    font-size: 36px;
+}
+.container-fluid{
+    padding: 2px;
+}
+.nav-link {
+    color: antiquewhite;
+}
+
+.navbar{
+    background-color: rgb(86, 69, 199);
+}
+.sm{
+    font-size: 17px;
+    padding-right: 20px;
+    color: white;
+}
+.v{
+    color: white;
+    margin-right: 9px;
+}
+.fa-caret-down{
+    color: white;
+    margin-right: 3%;
+}
+.row>* {
+    flex-shrink: 0;
+    width: 100%;
+}
+.bb{
+    color: rgb(86, 69, 199);
+    font-size: 160px;
+}
+#banner{
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(176, 203, 245),rgb(233, 233, 182)); 
+    height: 560px;
+}
+input{
+    border: none;
+    border-radius: 7px;
+    background-color: rgb(216, 216, 23);
+    padding: 6px 10px;
+    font-weight: 700;
+    margin-right: 7px;
+    font-size: 17px;
+}
+.fr{
+    margin-top: 3%;
+    margin-bottom: 0px;
+}
+#last{
+    position: relative;
+    top: 0px;
+    justify-content: center;
+}
+
+h1{
+    font-size: 64px;
+    line-height: 65px;
+    margin-top: 10px;
+}
+p{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 15px;
+}
